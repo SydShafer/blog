@@ -20,7 +20,7 @@ I have a tendency to overthink things. I’ve spent a lot of time agonizing over
 
 I thought about all the blogs I read regularly - I have them bookmarked and enjoy taking the time to visit each site when I want to read that content. I enjoy their quirks and easter eggs. I am so tired of all the walled gardens of the internet, so it would be pretty hypocritical of me to confine my own blog within some platform's limitations and restrictions. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb69c05a-bd90-44f4-a98a-debdf8d43e53/Untitled.png)
+![Bender Meme]({{ site.baseurl }}/images/bender-meme.png)
 
 I ended up deciding to use GitHub Pages. It’s free, I want more practice using Git and GitHub anyway, and there are a lot of nice tutorials to pick from on using it as a blogging platform. I used Barry Clark’s [Jekyll Now](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) theme for this site. It’s very bare bones right now, but I’ll post updates here as I work more on this site and make it mine.
 
